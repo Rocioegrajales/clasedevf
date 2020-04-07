@@ -1,0 +1,13 @@
+// EJERCICIO 1 - KATAS
+
+//Crea una función llamada sum que reciba dos parametros "a" y "b" 
+//y regrese la suma de ambos números. Recuerda que para devolver el 
+//valor de una función se utiliza la palabra reservada return.
+
+function sum(a, b){
+    
+    return a + b;   
+};
+
+var suma =  sum (4, 8);
+console.log(suma);

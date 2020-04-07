@@ -1,0 +1,92 @@
+nav.navegation{
+    border: solid 1px black;    
+    border-radius: 25px;
+    display: inline;
+}
+
+section.naveg{
+    border: solid 1px black;
+}
+
+article.gmail{
+    border: solid 1px black;
+}
+
+article.gimg{
+    border: solid 1px black;
+}
+
+article.gapps{
+    border: solid 1px black;
+}
+
+img.apps{
+    width: 25px;
+    height: 25px;
+}
+
+article.gaccout{
+    border: solid 1px black;
+}
+
+img.accout{
+    width: 25px;
+    height: 25px;
+}
+
+section.logo{
+    border: solid 1px black;
+}
+
+article.logogoogle{
+    border: solid 1px black;
+    padding: 20px 30px;
+}
+
+img.log{
+    width: 500px;
+    height: 300px;
+    /* padding: 20px; */
+}
+
+section.buscador{
+    border: solid 1px black;
+}
+
+article.lupa{
+    border: solid 1px black;
+}
+
+img.lup{
+    width: 25px;
+    height: 25px;
+}
+
+article.micro{
+    border: solid 1px black;
+}
+
+img.mic{
+    width: 25px;
+    height: 25px;
+}
+
+section.buscargoogle{
+    border: solid 1px black;
+}
+
+article.buscar{
+    border: solid 1px black;
+}
+
+div.busca{
+    border: solid 1px black;
+}
+
+article.suerte{
+    border: solid 1px black;
+}
+
+div.look{
+    border: solid 1px black;
+}

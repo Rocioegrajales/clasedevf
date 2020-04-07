@@ -1,0 +1,31 @@
+[
+    {
+        "nombre": "Ricardo", 
+        "edad": 21,
+        "tel": "123356789",
+        "direccion": "Bogotá",
+        "familia": true,
+        "musica": ["Salsa", "Cumbia", "Reggaeton", "Metal"],
+        "peliculas": {
+            "terror": false,
+            "romanticas": ["Titanic", "Romeo y JUlieta", ["prueba1", {
+                "dato1": "Soy un crack"
+            }]]
+        }
+    },
+
+    {
+        "nombre": "Luis",
+        "edad": 30,
+        "tel": "987654321",
+        "direccion": "Cali",
+        "familia": false,
+        "musica": ["Salsa", "Cumbia", "Reggaeton", "Metal"],
+        "peliculas": {
+            "terror": false,
+            "romanticas": ["Titanic", "Romeo y JUlieta", ["prueba1", {
+                "dato1": "Soy un crack"
+            }]]
+        }
+    }
+]
